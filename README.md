@@ -1,4 +1,4 @@
-# Mean-Median-Mode
+# Mean-Median-Mode Number's in the List
 The Mean is the average of the given numbers.
 It is calculated by dividing the sum of the given numbers by the total count of numbers.
 For example, numbers = 10,2,31,4
